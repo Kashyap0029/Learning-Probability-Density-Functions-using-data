@@ -1,4 +1,3 @@
-# Learning-Probability-Density-Functions-using-data
 # Air Quality Analysis – NO₂ Probability Density Estimation using GAN
 
 ---
